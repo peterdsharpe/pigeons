@@ -45,7 +45,6 @@ plt.hist(
     label="Data",
     color=np.array((255,64,99))/255
 )
-# plt.text(6,0.20,"Note: All responses rounded\nto the nearest whole pigeon.", fontsize = 10)
 plt.annotate(
     "Note: All responses rounded\nto the nearest whole pigeon.",
     (0.45, 0.9),
