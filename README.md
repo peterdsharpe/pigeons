@@ -1,6 +1,7 @@
 # :bird: Pigeons
 
 *by Peter Sharpe*
+*Other contributors: John Duffy*
 
 Someone in my grad school cohort (let's call her Sydney, because her name is Sydney) recently asked me "How many pigeons do you think you could carry?". 
 
