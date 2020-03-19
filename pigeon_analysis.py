@@ -8,7 +8,7 @@ import pandas as pd
 from scipy import stats
 
 # Fetch data
-data = pd.read_excel("data.xlsx")
+data = pd.read_csv("data.csv")
 n_pigeons = np.array(data.Pigeons)
 
 # Fit a model
