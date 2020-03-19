@@ -20,7 +20,7 @@ distribution = stats.truncnorm
 
 params = distribution.fit(
     n_pigeons,
-    0,
+    fa = 0,
     fb = np.Inf,
     # fscale=1,
     # floc=0,
