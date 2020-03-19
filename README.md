@@ -11,3 +11,5 @@ But I wanted to see what other people thought they could manage, so I crowdsourc
 Shoutout goes to our outlier, Yasmeen from Harvard, who simply replied "How many fit on a skewer?" (Some back-of-the-napkin math on average skewer length converted this to around 10 pigeons.) You live your best life, Yasmeen. :clap:
 
 ![dataviz](pigeons.svg)
+
+Data will be updated periodically. Feel free to contribute - open up an issue ticket and post your data, and I'll add it!
