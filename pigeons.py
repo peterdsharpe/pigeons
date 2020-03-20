@@ -21,18 +21,24 @@ n_pigeons = np.array(data.Pigeons)
 distribution = stats.gamma
 params = distribution.fit(
     n_pigeons,
+    1,
     fscale=1,
-    loc=-2,
+    loc=-1,
 )
+
+# distribution = stats.expon
+# params = distribution.fit(
+#     n_pigeons
+# )
 
 print("Fit Parameters:\n", params)
 
 # Visualize distribution
 fig, ax = plt.subplots(1, 1, figsize=(6.4, 4.8), dpi=200)
-x = np.linspace(0, np.max(n_pigeons) + 0.5, 500)
+x = np.linspace(1e-3, np.max(n_pigeons) + 0.5, 500)
 distribution_out = distribution.pdf(x, *params) / (1 - distribution.cdf(0, *params))
-x = np.hstack((0, x))
-distribution_out = np.hstack((0, distribution_out))
+# x = np.hstack((0, x))
+# distribution_out = np.hstack((0, distribution_out))
 plt.plot(
     x,
     distribution_out,
