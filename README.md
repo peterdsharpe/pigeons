@@ -13,3 +13,5 @@ Shoutout goes to our outlier, Yasmeen, who replied "How many fit on a skewer?" (
 ![dataviz](pigeons.svg)
 
 Data will be updated periodically. Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
+
+[Raw data available here.](data.csv)
