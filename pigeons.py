@@ -12,9 +12,17 @@ data = pd.read_csv("data.csv")
 n_pigeons = np.array(data.Pigeons)
 
 # Fit a model
-distribution = stats.norm
+# distribution = stats.norm
+# params = distribution.fit(
+#     n_pigeons,
+# )
+
+distribution = stats.gamma
 params = distribution.fit(
     n_pigeons,
+    # loc=-1,
+    fscale=1,
+    loc=-2,
 )
 
 print("Fit Parameters:\n", params)
@@ -49,7 +57,8 @@ plt.hist(
     zorder=9
 )
 plt.annotate(
-    "Note: All responses rounded\nto the nearest whole pigeon.\nMean = %.1f, $n$ = %i" % (params[0], len(n_pigeons)),
+    "Note: All responses rounded\nto the nearest whole pigeon.\nMean = %.1f, SD = %.1f, $n$ = %i" %
+    (distribution.mean(*params), distribution.std(*params), len(n_pigeons)),
     (0.45, 0.85),
     xycoords="axes fraction",
     fontsize=10
