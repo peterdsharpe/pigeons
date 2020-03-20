@@ -19,3 +19,7 @@ Data will be updated periodically. Feel free to contribute - open up an issue ti
 Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers do:
 
 <img src=pigeons_aerospace_engineering.png width="100%">
+
+## Links
+
+[Repository](https://github.com/peterdsharpe/pigeons)
