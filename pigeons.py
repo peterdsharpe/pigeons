@@ -20,7 +20,6 @@ n_pigeons = np.array(data.Pigeons)
 distribution = stats.gamma
 params = distribution.fit(
     n_pigeons,
-    # loc=-1,
     fscale=1,
     loc=-2,
 )
@@ -58,7 +57,7 @@ plt.hist(
 )
 plt.annotate(
     "Note: All responses rounded\nto the nearest whole pigeon.\nMean = %.1f, SD = %.1f, $n$ = %i" %
-    (distribution.mean(*params), distribution.std(*params), len(n_pigeons)),
+    (np.mean(n_pigeons), np.std(n_pigeons), len(n_pigeons)),
     (0.45, 0.85),
     xycoords="axes fraction",
     fontsize=10
