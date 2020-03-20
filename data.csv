@@ -1,14 +1,14 @@
-﻿Name   , Location   , Pigeons, Contributor, Notes
-Nish   , Boston     , 3      , Peter      ,
-Madison, Boston     , 1      , Peter      ,
-Minali , Boston     , 2      , Peter      ,
-Cindy  , Boston     , 0      , Peter      , """Not very many"""
-Yasmeen, Boston     , 10     , Peter      , """How many fit on a skewer"""
-Hannah , Boston     , 0      , Peter      , "(Author's note: Booooooooooooo)"
-Sophia , Boston     , 3      , Peter      , """They can be such tricky bastards"""
-Emily  , Springfield, 3      , Peter      ,
-Rachel , Springfield, 4      , Peter      ,
-Louise , Pittsburgh , 4      , John       , """Definitely at least 4"""
-Tiffany, Pittsburgh , 20     , John       , """Using tranquilizer darts and a hiking backpack"""
-Polina , Pittsburgh , 5      , John       , """A solid 4-6"""
-Lizzie , Pittsburgh , 0      , John       , """Because the government invented pigeons"" (Author's note: low effort right here - sometimes, you just gotta want it)"
+﻿Name,Location,Pigeons,Contributor,Notes
+Nish,Boston,3,Peter,
+Madison,Boston,1,Peter,
+Minali,Boston,2,Peter,
+Cindy,Boston,0,Peter,"""Not very many"""
+Yasmeen,Boston,10,Peter,"""How many fit on a skewer"""
+Hannah,Boston,0,Peter,"(Author's note: Booooooooooooo)"
+Sophia,Boston,3,Peter,"""They can be such tricky bastards"""
+Emily,Springfield,3,Peter,
+Rachel,Springfield,4,Peter,
+Louise,Pittsburgh,4,John,"""Definitely at least 4"""
+Tiffany,Pittsburgh,20,John,"""Using tranquilizer darts and a hiking backpack"""
+Polina,Pittsburgh,5,John,"""A solid 4-6"""
+Lizzie,Pittsburgh,0,John,"""Because the government invented pigeons (Author's note: low effort right here - sometimes you just gotta want it)"""

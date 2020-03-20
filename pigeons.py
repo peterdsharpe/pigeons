@@ -9,6 +9,7 @@ from scipy import stats
 
 # Fetch data
 data = pd.read_csv("data.csv")
+data = data.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
 n_pigeons = np.array(data.Pigeons)
 
 # Fit a model
