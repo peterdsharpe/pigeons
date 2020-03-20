@@ -1,6 +1,6 @@
 # :bird: Pigeons
 
-*by Peter Sharpe. Addl. contributions from: John Duffy*
+*by [Peter Sharpe](https://peterdsharpe.github.io). Addl. contributions from: John Duffy*
 
 Someone in my grad school cohort (we'll call her Sydney, because her name's Sydney) recently asked me "How many pigeons do you think you could carry?". 
 
