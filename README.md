@@ -10,8 +10,12 @@ But my labmates and I wanted to see what other people thought they could manage,
 
 Shoutout goes to our outlier, Yasmeen, who replied "How many fit on a skewer?" (Some back-of-the-napkin math on average BBQ skewer length converted this to around 10 pigeons.) You live your best life, Yasmeen. :clap:
 
-![dataviz](pigeons.svg)
+<img src=pigeons.svg width="100%">
 
 Data will be updated periodically. Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
 
 [Raw data available here.](data.csv)
+
+Also featuring art by my sister, Julie Sharpe, depicting her impression of what aerospace engineers do:
+
+<img src=pigeons_aerospace_engineering.png width="100%">
