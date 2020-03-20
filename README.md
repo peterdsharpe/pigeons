@@ -14,7 +14,7 @@ Shoutout goes to our outlier, Yasmeen, who replied "How many fit on a skewer?" (
 
 Data will be updated periodically. Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
 
-Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers do:
+Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers could do if they got creative with pigeons:
 
 <img src=pigeons_aerospace_engineering.png width="100%">
 
