@@ -1,6 +1,6 @@
 # :bird: Pigeons
 
-*by [Peter Sharpe](https://peterdsharpe.github.io). Addl. contributions from: John Duffy*
+*by [Peter Sharpe](https://peterdsharpe.github.io)*
 
 One of my grad school friends, Sydney, recently asked me "How many pigeons do you think you could carry?". 
 
@@ -17,6 +17,10 @@ Data will be updated periodically. Feel free to contribute - open up an issue ti
 Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers could do if they got creative with pigeons:
 
 <img src=pigeons_aerospace_engineering.png width="100%">
+
+## Other Contributors
+
+* John Duffy
 
 ## Links
 
