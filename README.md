@@ -18,6 +18,14 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 
 <img src=pigeons_aerospace_engineering.png width="100%">
 
+## Rules
+
+* Live pigeons.
+* Yes, like the ones at the park.
+* No, you can't train them.
+* Well, I guess you're allowed to sedate them, but only if it's in a cruelty-free way, and you also have to carry the sedation equipment too.
+* Bags are fine, but remember that pigeons weigh almost 2 pounds apiece and are pretty big.
+
 ## Other Contributors
 
 * John Duffy
