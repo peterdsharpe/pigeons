@@ -35,7 +35,8 @@ print("Fit Parameters:\n", params)
 
 # Visualize distribution
 fig, ax = plt.subplots(1, 1, figsize=(6.4, 4.8), dpi=200)
-x = np.linspace(1e-3, np.max(n_pigeons) + 0.5, 500)
+max = int(np.ceil(np.max(n_pigeons)))
+x = np.linspace(1e-3, max + 0.5, 500)
 distribution_out = distribution.pdf(x, *params) / (1 - distribution.cdf(0, *params))
 # x = np.hstack((0, x))
 # distribution_out = np.hstack((0, distribution_out))
@@ -56,7 +57,7 @@ plt.fill_between(
 )
 plt.hist(
     n_pigeons,
-    bins=np.arange(np.ceil(np.max(n_pigeons)) + 2) - 0.5,
+    bins=np.arange(max + 2) - 0.5,
     density=True,
     label="Data",
     color=np.array((255, 64, 99)) / 255,
@@ -69,6 +70,7 @@ plt.annotate(
     xycoords="axes fraction",
     fontsize=10
 )
+plt.xticks(np.arange(0, max + 2, 2))
 plt.xlabel("Number of Pigeons They Could Carry [pigeons]")
 plt.ylabel("Probability Distribution Function [-]")
 plt.title("A Survey of Tinder:\n\"How many pigeons do you think you could carry?\"")
