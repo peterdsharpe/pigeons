@@ -34,6 +34,6 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 
 Quick link: [tiny.cc/TinderPigeons](http://tiny.cc/TinderPigeons)
 
-[Repository](https://github.com/peterdsharpe/pigeons)
+[Code (GitHub repository)](https://github.com/peterdsharpe/pigeons)
 
 [Raw data](https://github.com/peterdsharpe/pigeons/blob/master/data.csv)
