@@ -10,15 +10,16 @@ My labmates and I wanted to see what other people thought they could manage, so 
 
 <img src=pigeons.png width="100%">
 
-Shoutout goes to our outlier, Yasmeen, who replied "How many fit on a skewer?" (Some back-of-the-napkin math on average BBQ skewer length converted this to around 10 pigeons.) You live your best life, Yasmeen. :clap:
-
-Data will be updated periodically. Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
-
 Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers could do if they got creative with pigeons:
 
 <img src=pigeons_aerospace_engineering.png width="100%">
 
-## Rules
+### Hall of Fame
+
+* Tiffany, 20 pigeons "using tranquilizer darts and a hiking backpack"
+* Yasmeen, 10 pigeons "how many fit on a skewer?"
+
+### Rules
 
 * Live pigeons.
 * Yes, like the ones at the park.
@@ -26,11 +27,13 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 * Well, I guess you're allowed to sedate them, but only if it's in a cruelty-free way, and you also have to carry the sedation equipment too.
 * Bags are fine, but remember that pigeons weigh almost 2 pounds apiece and are pretty big.
 
-## Other Contributors
+### Other Contributors
 
 * John Duffy
 
-## Links
+Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
+
+### Links
 
 Quick link: [tiny.cc/TinderPigeons](http://tiny.cc/TinderPigeons)
 
