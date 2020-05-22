@@ -23,12 +23,6 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 * Well, I guess you're allowed to sedate them, but only if it's in a cruelty-free way, and you also have to carry the sedation equipment too.
 * Bags are fine, but remember that pigeons weigh almost 2 pounds apiece and are as big as like, a large orange. No Travis, you can't carry 250 of them in a bag. Yes, I know you've been working out.
 
-### Other Contributors
-
-* John Duffy
-
-Feel free to contribute - open up an issue ticket and post your data (see `data.csv` for format), and I'll add it!
-
 ### Links
 
 Quick link: [tiny.cc/tinderpigeons](http://tiny.cc/tinderpigeons)
