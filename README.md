@@ -4,7 +4,7 @@
 
 One of my grad school friends, Sydney, recently asked me "How many pigeons do you think you could carry?". 
 
-Honestly, it really threw me for a loop. I thought about it and came up with 18 pigeons, since I figured I could stuff quite a few pigeons in a trench coat. (Might be painful since they'd be wiggling, but I could make it a block or so?)
+Honestly, it really threw me for a loop. I thought about it and came up with 18 pigeons, since I figured I could stuff quite a few pigeons in a trench coat.
 
 My labmates and I wanted to see what other people thought they could manage, so I crowdsourced data from the most reliable data collection website I could think of: Tinder. (The best part was that this was totally free - I just had to mortgage my dating life for a little while!)
 
