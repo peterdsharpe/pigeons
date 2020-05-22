@@ -35,7 +35,7 @@ Feel free to contribute - open up an issue ticket and post your data (see `data.
 
 ### Links
 
-Quick link: [tiny.cc/TinderPigeons](http://tiny.cc/TinderPigeons)
+Quick link: [tiny.cc/tinderpigeons](http://tiny.cc/tinderpigeons)
 
 [Long Link](https://peterdsharpe.github.io/pigeons/)
 
