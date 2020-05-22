@@ -22,7 +22,7 @@ with open("data.csv", "r") as f:
 import copy
 data_original = copy.copy(data)
 data.append(
-    "%s,%s,%f,%s,\"\"\"%s\"\"\"" %
+    "%s,%s,%f,%s,\"\"\"%s\"\"\"\n" %
     (name, location, float(n_pigeons), contributor, notes)
 )
 with open("data.csv", "w") as f:
