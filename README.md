@@ -1,4 +1,4 @@
-# :bird: Pigeons
+# Pigeons 🐦
 
 *by [Peter Sharpe](https://peterdsharpe.github.io)*
 
