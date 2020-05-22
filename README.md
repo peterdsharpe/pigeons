@@ -1,4 +1,4 @@
-# [Pigeons](https://peterdsharpe.github.io/pigeons/) 🐦 🐦 🐦
+### 🐦 [Pigeons](https://peterdsharpe.github.io/pigeons/) 🐦
 
 *by [Peter Sharpe](https://peterdsharpe.github.io)*
 
