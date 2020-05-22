@@ -8,11 +8,11 @@ Honestly, it really threw me for a loop. I thought about it and came up with 18 
 
 My labmates and I wanted to see what other people thought they could manage, so I crowdsourced data from the most reliable data collection website I could think of: Tinder. (The best part was that this was totally free - I just had to mortgage my dating life for a little while!)
 
-<img src=media/pigeons.png width="100%" alt="Pigeon Graph">
+![Pigeon Graph](media/pigeons.png)  
 
 Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/juliesharpeart/), depicting her impression of what aerospace engineers could do if they got creative with pigeons:
 
-<img src=media/pigeons_aerospace_engineering.png width="100%" alt="Pigeon Art">
+![Pigeon Art](media/pigeons_aerospace_engineering.png)
 
 ### Hall of Fame
 
