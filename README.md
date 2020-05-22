@@ -1,7 +1,3 @@
-### 🐦 [Pigeons](https://peterdsharpe.github.io/pigeons/) 🐦
-
-*by [Peter Sharpe](https://peterdsharpe.github.io)*
-
 One of my grad school friends, Sydney, recently asked me "How many pigeons do you think you could carry?". 
 
 Honestly, it really threw me for a loop. I thought about it and came up with 18 pigeons, since I figured I could stuff quite a few pigeons in a trench coat.
