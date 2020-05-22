@@ -1,4 +1,4 @@
-# Pigeons 🐦 🐦 🐦
+# [Pigeons](https://peterdsharpe.github.io/pigeons/) 🐦 🐦 🐦
 
 *by [Peter Sharpe](https://peterdsharpe.github.io)*
 
@@ -36,6 +36,8 @@ Feel free to contribute - open up an issue ticket and post your data (see `data.
 ### Links
 
 Quick link: [tiny.cc/TinderPigeons](http://tiny.cc/TinderPigeons)
+
+[Long Link](https://peterdsharpe.github.io/pigeons/)
 
 [Code (GitHub repository)](https://github.com/peterdsharpe/pigeons)
 
