@@ -1,6 +1,6 @@
 One of my grad school friends, Sydney, recently asked me "How many pigeons do you think you could carry?"
 
-Honestly, it really threw me for a loop. I thought about it and came up with 18 pigeons, since I figured I could stuff quite a few pigeons in a trench coat.
+Honestly, it really threw me for a loop. I thought about it and came up with 18 pigeons, since I figured I could get quite a few pigeons to follow me if I duct-taped bread to my arms.
 
 My labmates and I wanted to see what other people thought they could manage, so I crowdsourced data from the most reliable data collection website I could think of: Tinder. (The best part was that this was totally free - I just had to mortgage my dating life for a little while!)
 
@@ -21,7 +21,7 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 * Yes, like the ones at the park.
 * No, you can't train them.
 * Well, I guess you're allowed to sedate them, but only if it's in a cruelty-free way, and you also have to carry the sedation equipment too.
-* Bags are fine, but remember that pigeons weigh almost 2 pounds apiece and are as big as like, a large orange. No Travis, you can't carry 250 of them in a bag. Yes, I know you've been working out.
+* Bags are fine, but don't forget that pigeons weigh 2 pounds each. Also, they're definitely gonna be squirming in a bag.
 
 ### Links
 
