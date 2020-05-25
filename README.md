@@ -21,7 +21,7 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 * Yes, like the ones at the park.
 * No, you can't train them.
 * Well, I guess you're allowed to sedate them, but only if it's in a cruelty-free way, and you also have to carry the sedation equipment too.
-* Bags are fine, but don't forget that pigeons weigh 2 pounds each. Also, they're definitely gonna be squirming in a bag.
+* Bags are fine, but don't forget that pigeons weigh 2 pounds each. Also, they're definitely gonna be unhappy and squirming in a bag!
 
 ### Links
 
