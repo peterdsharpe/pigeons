@@ -33,11 +33,11 @@ line()
 # Run the pigeons script
 print("Running the pigeons analysis script...")
 import pigeons as p
-if not input("Does the data look good? (y/n): ").lower().strip() == "y":
-    print("Aborting and restoring old data!")
-    with open("data.csv", "w") as f:
-        f.writelines(data_original)
-    exit(0)
+# if not input("Does the data look good? (y/n): ").lower().strip() == "y":
+#     print("Aborting and restoring old data!")
+#     with open("data.csv", "w") as f:
+#         f.writelines(data_original)
+#     exit(0)
 
 # Run a Git commit to push up to the server
 import os
