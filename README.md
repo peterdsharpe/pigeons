@@ -20,8 +20,6 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 
 ### Links
 
-Quick link: [tiny.cc/tinderpigeons](http://tiny.cc/tinderpigeons)
-
 [Source code (GitHub repository)](https://github.com/peterdsharpe/pigeons)
 
 [Raw data](https://github.com/peterdsharpe/pigeons/blob/master/data.csv)
