@@ -10,11 +10,6 @@ Also featuring art by my sister, [Julie Sharpe](https://www.instagram.com/julies
 
 ![Pigeon Art](media/pigeons_aerospace_engineering.png)
 
-### Hall of Fame
-
-* Tiffany, 20 pigeons "using tranquilizer darts and a hiking backpack"
-* Yasmeen, 10 pigeons "how many fit on a skewer?"
-
 ### Rules
 
 * Live pigeons.
